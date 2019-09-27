@@ -10,6 +10,7 @@
 /local.properties
 .*.swp
 .DS_Store
+.ibm-project
 /src/main/resources/application-local.properties
 
 src/main/resources/application-local.properties
